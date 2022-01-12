@@ -25,7 +25,7 @@ To be efficient, a distributed web crawler has to be well designed: it is import
 
 - The Deep Web is a part of the web non indexed, It means that you cannot find these websites using a search engine but you'll need to access them by knowing the associated URL / IP address.
 
--The Dark Web is a part of the web that you't cannot access using a regular browser. You'll need to use a particular application or a special proxy. The most famous dark web is the hidden services built on the tor network. They can be accessed using special URL who ends with .onion
+- The Dark Web is a part of the web that you't cannot access using a regular browser. You'll need to use a particular application or a special proxy. The most famous dark web is the hidden services built on the tor network. They can be accessed using special URL who ends with .onion
 
 
 ### Iceberg
